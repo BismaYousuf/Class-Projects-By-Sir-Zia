@@ -1,0 +1,135 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian",
+        "read": false
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "genre": "Fantasy",
+        "read": false
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "genre": "Adventure",
+        "read": false
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "genre": "Fiction",
+        "read": false
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "year": 1869,
+        "genre": "Historical",
+        "read": false
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "year": 1866,
+        "genre": "Psychological Fiction",
+        "read": true
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "year": 1954,
+        "genre": "Fantasy",
+        "read": false
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "year": 1932,
+        "genre": "Dystopian",
+        "read": false
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Bront\u00c3\u00ab",
+        "year": 1847,
+        "genre": "Gothic Fiction",
+        "read": true
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "year": 1605,
+        "genre": "Adventure",
+        "read": false
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "year": 1818,
+        "genre": "Horror",
+        "read": true
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "year": 1877,
+        "genre": "Drama",
+        "read": false
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "year": 1897,
+        "genre": "Horror",
+        "read": false
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "year": 1880,
+        "genre": "Philosophical Fiction",
+        "read": true
+    },
+    {
+        "title": "the grate gatsby",
+        "author": "f.scott fitzgerald",
+        "year": 1925,
+        "genre": "fiction",
+        "read": false
+    },
+    {
+        "title": "The Great Gatsby ",
+        "author": " F. Scott Fitzgerald",
+        "year": 1925,
+        "genre": "fiction",
+        "read": false
+    }
+]

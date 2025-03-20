@@ -1,0 +1,17 @@
+[project]
+name = "password"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Bisma", email = "bismayousuf540@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+password = "password:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
